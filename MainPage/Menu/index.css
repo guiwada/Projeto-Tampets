@@ -1,0 +1,159 @@
+.logo2-2-icon {
+  position: absolute;
+  top: 275px;
+  left: 375px;
+  width: 616px;
+  height: 217.71px;
+  object-fit: cover;
+  display: none;
+}
+.seja-bem-vindoa {
+  position: absolute;
+  top: 593px;
+  left: 470px;
+  font-size: var(--font-size-21xl);
+  line-height: 40px;
+  display: none;
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.menu-child,
+.menu-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-steelblue-100);
+  width: 1366px;
+  height: 768px;
+}
+.menu-item {
+  background-color: var(--color-steelblue);
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);
+}
+.boto-fechar-icon {
+  position: absolute;
+  top: 30px;
+  left: 1244px;
+  width: 76px;
+  height: 76px;
+}
+.agendar-castrao-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-steelblue);
+}
+.firstaidkit-icon {
+  position: absolute;
+  height: 40%;
+  width: 40%;
+  top: 11.11%;
+  right: 30%;
+  bottom: 48.89%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.agendar {
+  margin: 0;
+  line-height: 24px;
+}
+.castrao {
+  margin: 0;
+  line-height: 32px;
+}
+.agendar-castrao1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 55.56%;
+  left: 16.67%;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--neutral-0);
+  text-align: center;
+  display: inline-block;
+}
+.agendar-castrao {
+  position: absolute;
+  top: 188px;
+  left: 487px;
+  width: 180px;
+  height: 180px;
+}
+.agenda1 {
+  position: absolute;
+  top: 65.56%;
+  left: 25%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.calendar-icon {
+  position: absolute;
+  height: 40%;
+  width: 40%;
+  top: 21.11%;
+  right: 30%;
+  bottom: 38.89%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.agenda {
+  position: absolute;
+  top: 188px;
+  left: 699px;
+  width: 180px;
+  height: 180px;
+}
+.usurios1 {
+  position: absolute;
+  top: 65.56%;
+  left: 21.67%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.usurios {
+  top: 400px;
+  left: 487px;
+  width: 180px;
+  height: 180px;
+}
+.sair,
+.sair1,
+.usurios {
+  position: absolute;
+}
+.sair1 {
+  top: 65.56%;
+  left: 37.22%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.sair {
+  top: 400px;
+  left: 699px;
+  width: 180px;
+  height: 180px;
+  cursor: pointer;
+}
+.menu {
+  position: relative;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--neutral-0);
+  font-family: var(--font-inter);
+}

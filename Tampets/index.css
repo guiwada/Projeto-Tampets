@@ -1,0 +1,205 @@
+.espao-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--neutral-0);
+  border: 1px solid var(--neutral-400);
+  box-sizing: border-box;
+}
+.placeholder-text {
+  position: absolute;
+  top: 16px;
+  left: 40px;
+  line-height: 16px;
+}
+.espao {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.envelopesimple-icon {
+  position: absolute;
+  top: 14px;
+  left: 12px;
+  width: 20px;
+  height: 20px;
+}
+.logo2-1-icon,
+.text-input,
+.text-input1 {
+  position: absolute;
+  top: 321px;
+  left: 806px;
+  width: 400px;
+  height: 48px;
+}
+.logo2-1-icon,
+.text-input1 {
+  top: 385px;
+}
+.logo2-1-icon {
+  top: 110px;
+  left: 796px;
+  width: 420px;
+  height: 161.12px;
+  object-fit: cover;
+}
+.administrador-entre-em {
+  position: absolute;
+  top: 281px;
+  left: 874px;
+  line-height: 16px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.acompanhe-nosso-projeto,
+.esqueceu-sua-senha,
+.ou-acesse {
+  position: absolute;
+  top: 29px;
+  left: 32px;
+  font-size: var(--font-size-sm);
+  line-height: 14px;
+  font-weight: 500;
+  color: var(--color-darkgray-100);
+}
+.esqueceu-sua-senha,
+.ou-acesse {
+  top: 543px;
+  left: 972px;
+}
+.esqueceu-sua-senha {
+  top: 441px;
+  left: 1061px;
+  color: var(--color-gray-100);
+}
+.vector-icon {
+  position: absolute;
+  height: 81.93%;
+  width: 49.77%;
+  top: 11.15%;
+  right: 50.23%;
+  bottom: 6.92%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.login-child {
+  position: absolute;
+  top: 78px;
+  left: 126px;
+  width: 370px;
+  height: 575px;
+}
+.undraw-good-doggy-re-eet7-1-icon {
+  position: absolute;
+  top: 285px;
+  left: 0;
+  width: 886px;
+  height: 378px;
+  overflow: hidden;
+}
+.label {
+  position: relative;
+  line-height: 24px;
+  z-index: 0;
+}
+.primary-button {
+  position: absolute;
+  top: 479px;
+  left: 806px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-steelblue);
+  width: 400px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--neutral-0);
+  font-family: var(--font-lato);
+}
+.dog-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.balana-button,
+.fila-button {
+  position: absolute;
+  top: 637px;
+  left: 917px;
+  border-radius: var(--br-5xs);
+  border: 2px solid var(--color-steelblue);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base) var(--padding-5xs)
+    var(--padding-xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  text-align: center;
+  color: var(--color-steelblue);
+  font-family: var(--font-lato);
+}
+.balana-button {
+  top: 581px;
+  left: 899px;
+}
+.login-inner,
+.login-item {
+  position: absolute;
+  top: 550.5px;
+  left: 763.5px;
+  border-top: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 201px;
+  height: 1px;
+}
+.login-inner {
+  left: 1047.5px;
+}
+.facebook-icon,
+.instagram-icon,
+.whatsapp-icon {
+  position: absolute;
+  top: 24px;
+  left: 216px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.instagram-icon,
+.whatsapp-icon {
+  left: 244px;
+}
+.whatsapp-icon {
+  left: 272px;
+}
+.login {
+  position: relative;
+  background-color: #fafafa;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--neutral-400);
+  font-family: var(--font-inter);
+}
